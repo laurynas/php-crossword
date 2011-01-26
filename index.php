@@ -43,6 +43,12 @@ Thanks to Sandy Antunes.
 	<li><a href="demo-xml.php" target="_blank">Demo XML output</a></li>
 </ul>
 
+<h3>Source</h3>
+
+<ul>
+	<li><a href="http://github.com/laurynas/php-crossword/">Github</a></li>
+</ul>
+
 <h3>Features</h3>
 
 <ul>
