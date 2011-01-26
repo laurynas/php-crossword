@@ -1,0 +1,10 @@
+2005-08-20  Laurynas Butkus, Sandy Antunes (sandy.antunes at gmail.com)
+
+ * Sandy improved libraries to support numbering of words. Now generated
+   demo looks like standard crossword puzzle. Released v0.5.2.
+
+
+2004-12-14  Laurynas Butkus
+
+ * Imported into SF CVS. Released v0.5.1.
+
