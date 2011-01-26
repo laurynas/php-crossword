@@ -53,16 +53,6 @@ Thanks to Sandy Antunes.
 	<li>Colored debugging</li>
 </ul>
 
-<h3>TODO</h3>
-
-<ul>
-	<li>API Documentation</li>
-	<li>Installation instructions</li>
-	<li>Client Java Applet</li>
-	<li>More databases support...</li>
-</ul>
-
-
 <hr size="1" />
 
 &copy; Laurynas Butkus (laurynas.butkus at gmail.com), 2005

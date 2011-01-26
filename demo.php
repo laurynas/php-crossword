@@ -43,7 +43,7 @@ body, td { font-family: Courier; font-size: 10pt; }
 	<? endforeach; ?>
 	</select>
 	
-	Colors:
+	Debug:
 	<input type="checkbox" name="colors" value="1" <? if (!empty($_REQUEST['colors'])) echo 'checked'; ?> />
 
 	Big blocks?:
