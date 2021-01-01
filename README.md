@@ -1,6 +1,10 @@
 PHP Crossword
 =============
 
+**This project is no longer maintained. It does not work with the latest PHP versions.
+Latest compatible version is PHP4, you can run it on Docker.
+There is also [a fork compatible with PHP 5.6](https://github.com/dFelinger/php-crossword).**
+
 PHP Crossword is PHP and MySQL based crossword generator.
 
 News
